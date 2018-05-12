@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3048
     wikipedia: http://en.wikipedia.org/wiki/George_Wharton_Edwards
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46069#Vanished-Halls-and-Cathedrals-of-France
 gutenberg_issued: '2014-06-22'
 gutenberg_type: Text
 identifiers:
